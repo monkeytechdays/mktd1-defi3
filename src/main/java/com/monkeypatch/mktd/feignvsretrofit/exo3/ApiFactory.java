@@ -1,7 +1,6 @@
 package com.monkeypatch.mktd.feignvsretrofit.exo3;
 
 import com.monkeypatch.mktd.feignvsretrofit.exo1.MonkeyApi;
-import com.monkeypatch.mktd.feignvsretrofit.exo1.MonkeyImpl;
 import com.monkeypatch.mktd.feignvsretrofit.exo1.MonkeyRetrofitApi;
 import com.monkeypatch.mktd.feignvsretrofit.exo1.model.Monkey;
 import com.squareup.moshi.Moshi;
